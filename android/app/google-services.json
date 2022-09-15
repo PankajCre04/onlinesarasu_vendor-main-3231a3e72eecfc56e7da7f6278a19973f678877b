@@ -1,0 +1,126 @@
+{
+  "project_info": {
+    "project_number": "762360228952",
+    "project_id": "online-sarasu-8042c",
+    "storage_bucket": "online-sarasu-8042c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762360228952:android:3e4fc205b64bc34a20ae2d",
+        "android_client_info": {
+          "package_name": "com.ssoftwares.onlinesarasucustomer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "762360228952-9t9jeq104fibcjk0egdqo1mgskghl40h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ssoftwares.onlinesarasucustomer",
+            "certificate_hash": "dca83ada889fe30bce5bc42a131209b408599e9a"
+          }
+        },
+        {
+          "client_id": "762360228952-8jrg4es99de2qbk8sar7t0m8butrk007.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGh4b22OgJkGFU5cIcTx_vhQ6ezmqjQVU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "762360228952-8jrg4es99de2qbk8sar7t0m8butrk007.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "762360228952-sn6cjvo84nv754gv70s626f9r7cdhfij.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ssoftwares.onlinesarasucustomer"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762360228952:android:7027b38fe73e627020ae2d",
+        "android_client_info": {
+          "package_name": "com.ssoftwares.onlinesarasucustomervendor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "762360228952-8jrg4es99de2qbk8sar7t0m8butrk007.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGh4b22OgJkGFU5cIcTx_vhQ6ezmqjQVU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "762360228952-8jrg4es99de2qbk8sar7t0m8butrk007.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "762360228952-sn6cjvo84nv754gv70s626f9r7cdhfij.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ssoftwares.onlinesarasucustomer"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762360228952:android:17496dd731b54f2820ae2d",
+        "android_client_info": {
+          "package_name": "com.ssoftwares.onlinesarasudriver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "762360228952-8jrg4es99de2qbk8sar7t0m8butrk007.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGh4b22OgJkGFU5cIcTx_vhQ6ezmqjQVU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "762360228952-8jrg4es99de2qbk8sar7t0m8butrk007.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "762360228952-sn6cjvo84nv754gv70s626f9r7cdhfij.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ssoftwares.onlinesarasucustomer"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
